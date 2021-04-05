@@ -2,6 +2,7 @@
 
 ### I'm a 3rd year student who is currently pursuing his Bachelor in Technology from PES University. I'm a keen learner and building new applications excites me. Check out my portfolio <a href="https://vishwajeet-hogale.github.io/vishwajeethogale">click here</a>
 Also, feel free to raise issues on any of the projects as long as it can make the project better :')
+<img src="https://github-readme-stats.vercel.app/api?username=vishwajeet-hogale"></img>
 
 - 🔭 I’m interested in working in the Machine Learning/ Deep Learning Domain but I also love building full stack web dev projects for fun
 - 🌱 I’m currently learning Reinforcement Learning, FastAPI , Kubernetes, AWS
