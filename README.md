@@ -12,7 +12,7 @@ Also, feel free to raise issues on any of the projects as long as it can make th
 - 💬 Ask me about Flask, HTML, CSS, JavaScript, Python, SQL, Machine Learning, Deep Learning, Tensorflow, Django, Computer Vision,OpenCV
 - 📫 How to reach me: Drop me a mail anytime at vishwajeethogale307@gmail.com
 <img src="https://github-readme-stats.vercel.app/api?username=vishwajeet-hogale"></img>
-<br/>
+
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&&langs_count=5" ></img>
