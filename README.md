@@ -2,12 +2,10 @@
 
 
 
-- 🔭 I’m currently working on building an airbnb clone for pets using flask and mongo
-- 🌱 I’m currently learning Reinforcement Learning, Django, FastAPI , Kubernetes
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Flask, HTML, CSS, JavaScript, Python, SQL
-- 📫 How to reach me: Drop me a mail or reach out to me on instagram @vishwajeet.hogale
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m interested in working in the Machine Learning/ Deep Learning Domain but I also love building full stack web dev projects for fun
+- 🌱 I’m currently learning Reinforcement Learning, FastAPI , Kubernetes, AWS
+
+
+- 💬 Ask me about Flask, HTML, CSS, JavaScript, Python, SQL, Machine Learning, Deep Learning, Tensorflow, Django, Computer Vision,OpenCV
+- 📫 How to reach me: Drop me a mail anytime at vishwajeethogale307@gmail.com
 
