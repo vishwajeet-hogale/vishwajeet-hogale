@@ -10,4 +10,4 @@
 - 📫 How to reach me: Drop me a mail anytime at vishwajeethogale307@gmail.com
 
 <img src="https://github-readme-stats.vercel.app/api?username=vishwajeet-hogale&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" ></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" ></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&&langs_count=5" ></img>
