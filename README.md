@@ -6,7 +6,7 @@ Also, feel free to raise issues on any of the projects as long as it can make th
 <img src="https://komarev.com/ghpvc/?username=your-github-vishwajeet-hogale&color=green" ></img>
 
 - 🔭 I’m interested in working in the Machine Learning/ Deep Learning Domain but I also love building full stack web dev projects for fun
-- 🌱 I’m currently learning Reinforcement Learning, FastAPI , Kubernetes, AWS
+- 🌱 I’m currently learning Reinforcement Learning, FastAPI , Kubernetes, AWS, django
 
 
 - 💬 Ask me about Flask, HTML, CSS, JavaScript, Python, SQL, Machine Learning, Deep Learning, Tensorflow, Django, Computer Vision,OpenCV
