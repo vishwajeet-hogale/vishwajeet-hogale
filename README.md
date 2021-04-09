@@ -9,7 +9,7 @@ Also, feel free to raise issues on any of the projects as long as it can make th
 - 🌱 I’m currently learning Reinforcement Learning, FastAPI , Kubernetes, AWS, django, React JS
 
 
-- 💬 Ask me about Flask, HTML, CSS, JavaScript, Python, SQL, Machine Learning, Deep Learning, Tensorflow, Computer Vision,OpenCV
+- 💬 Ask me about Flask, HTML, CSS, JavaScript, Python, SQL, Machine Learning, Deep Learning, Tensorflow, Computer Vision,MongoDB
 - 📫 How to reach me: Drop me a mail anytime at vishwajeethogale307@gmail.com
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=vishwajeet-hogale"></img>
