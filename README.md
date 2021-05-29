@@ -13,4 +13,4 @@ Also, feel free to raise issues on any of the projects as long as it can make th
 - 📫 How to reach me: Drop me a mail anytime at vishwajeethogale307@gmail.com
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=vishwajeet-hogale"></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeet-hogale&&langs_count=5" ></img>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak1905&" alt="vishwajeet-hogale" /></p>
