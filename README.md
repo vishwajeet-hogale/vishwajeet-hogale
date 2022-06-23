@@ -15,4 +15,4 @@ Also, feel free to raise issues on any of the projects as long as it can make th
 <!-- <p><img src="https://github-readme-stats.vercel.app/api?username=vishwajeet-hogale"></img></p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwajeet-hogale" alt="vishwajeet-hogale" /></p>
 <br/>
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/zOvBKUUEERdNm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/coding-zOvBKUUEERdNm">via GIPHY</a></p>
+![Alt Text](https://giphy.com/gifs/coding-zOvBKUUEERdNm)
