@@ -15,4 +15,4 @@ Also, feel free to raise issues on any of the projects as long as it can make th
 <!-- <p><img src="https://github-readme-stats.vercel.app/api?username=vishwajeet-hogale"></img></p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwajeet-hogale" alt="vishwajeet-hogale" /></p>
 <br/>
-![](https://giphy.com/gifs/coding-zOvBKUUEERdNm)
+![]([https://giphy.com/gifs/coding-zOvBKUUEERdNm](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif))
