@@ -12,5 +12,7 @@ Also, feel free to raise issues on any of the projects as long as it can make th
 - 💬 Ask me about Flask, HTML, CSS, JavaScript, Python, SQL, Machine Learning, Deep Learning, Tensorflow, Computer Vision, MongoDB, discord.py 
 - 📫 How to reach me: Drop me a mail anytime at vishwajeethogale307@gmail.com
 <br><br>
-<p><img src="https://github-readme-stats.vercel.app/api?username=vishwajeet-hogale"></img></p>
+<!-- <p><img src="https://github-readme-stats.vercel.app/api?username=vishwajeet-hogale"></img></p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwajeet-hogale" alt="vishwajeet-hogale" /></p>
+<br/>
+<iframe src="https://giphy.com/embed/zOvBKUUEERdNm" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-zOvBKUUEERdNm">via GIPHY</a></p>
