@@ -16,7 +16,7 @@ Feel free to raise issues on any of the projects as long as it can make the proj
 <!-- <p><img src="https://github-readme-stats.vercel.app/api?username=vishwajeet-hogale"></img></p> -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwajeet-hogale" alt="vishwajeet-hogale" /></p> -->
 <br/>
-<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"  height="300" width="300" />
+<!-- <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"  height="300" width="300" /> -->
 <https://github-readme-stats.vercel.app/api?username=vishwajeet-hogale&show_icons=true&theme=dark/>
 
  
