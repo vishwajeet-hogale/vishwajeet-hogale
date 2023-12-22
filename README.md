@@ -5,7 +5,7 @@ Feel free to raise issues on any of the projects as long as it can make the proj
 <br>
 <img src="https://komarev.com/ghpvc/?username=your-github-vishwajeet-hogale&color=green" ></img>
 
-- 👨‍💻 Portfolio - <a href = "https://vishwajeet-hogale.vercel.app">link</a>
+- 👨‍💻 Portfolio - <a href = "https://vishwajeet-hogale.vercel.app">vishwajeet-hogale.com/a>
 - 💬 Ask me about  <br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Full Stack Web Development<br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Machine Learning<br/> 
