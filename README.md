@@ -17,7 +17,7 @@ Feel free to raise issues on any of the projects as long as it can make the proj
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwajeet-hogale" alt="vishwajeet-hogale" /></p> -->
 
 <!-- <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"  height="300" width="300" /> -->
-<https://github-readme-stats.vercel.app/api?username=vishwajeet-hogale&show_icons=true&theme=dark/>
+<!-- <https://github-readme-stats.vercel.app/api?username=vishwajeet-hogale&show_icons=true&theme=dark/>-->
 
 ## 🚀 Languages and Tools -
 <h3 align="left">Languages and Tools:</h3>
