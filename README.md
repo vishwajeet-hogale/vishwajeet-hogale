@@ -7,7 +7,6 @@ Feel free to raise issues on any of the projects as long as it can make the proj
 <img src="https://komarev.com/ghpvc/?username=vishwajeet-hogale&color=green" ></img>
 
 - 👨‍💻 Portfolio: <a href="https://vishwajeet-hogale.github.io/">vishwajeet-hogale.github.io</a>
-- 📄 Research: <a href="https://scholar.google.com/citations?user=OMpxy9EAAAAJ">Google Scholar</a>
 - 🔭 What I work on:
   - Multimodal perception for autonomous driving (camera, LiDAR, driving stack logs)
   - Robot learning: VLAs, Diffusion Policy and ACT
